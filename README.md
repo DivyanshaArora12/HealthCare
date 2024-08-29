@@ -1,2 +1,0 @@
-# HealthCare
-Appointment Booking WebApp
